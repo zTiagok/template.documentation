@@ -1,4 +1,4 @@
-# Documentation Template
+# 🗃️ Documentation Template
 
 <div align="center">
 
@@ -13,6 +13,7 @@
 1. [Goals](#-goals)
 1. [Built With](#-built-with)
 1. [Installation](#-installation)
+1. [Structure](#-structure)
 1. [Media](#️-media)
 1. [References](#-references)
 1. [Contributing](#-contributing)
@@ -29,8 +30,7 @@ Use this section to explain your project goals, where do you got the inspiration
 ## ✅ Goals
 
 - [x] Write the documentation
-- [ ] Start [STRUCTURE.md](STRUCTURE.md)
-- [ ] Finish [STRUCTURE.md](STRUCTURE.md)
+- [x] Start [STRUCTURE.md](STRUCTURE.md)
 - [ ] Start the project
 - [ ] Work in the project
   - [ ] First page done
@@ -71,6 +71,12 @@ Use this section to explain your project goals, where do you got the inspiration
 ```bash
   write your code for the next step
 ```
+
+<br />
+
+## 📁 Structure
+
+For a complete understanding of the folder and file organization on this project, please check the [`STRUCTURE.md`](STRUCTURE.md) file.
 
 <br />
 
